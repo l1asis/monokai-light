@@ -1,0 +1,22 @@
+{
+  "name": "monokai-light",
+  "displayName": "Monokai Light Theme",
+  "description": "Lightweight Monokai light theme for VS Code.",
+  "version": "0.0.1",
+  "publisher": "l1asis",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Light",
+        "uiTheme": "vs",
+        "path": "./monokai-light.json"
+      }
+    ]
+  }
+}
