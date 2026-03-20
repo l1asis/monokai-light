@@ -20,3 +20,6 @@ Somehow, the original Monokai theme is too dark for me, so here we are :smiley:
 1. Download the `monokai-light.json` file from the repository.
 2. ***(Optional)*** Rename the file to your preference, but make sure to keep the `.json` extension.
 3. Follow the instructions in the [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs) repository to convert and apply the theme in Visual Studio.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
