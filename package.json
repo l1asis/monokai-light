@@ -18,5 +18,9 @@
         "path": "./monokai-light.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l1asis/monokai-light.git"
   }
 }
