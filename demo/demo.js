@@ -29,7 +29,7 @@ const playlist = new AudioPlaylist("Awake", [
   { title: "Hero", duration: 187, genre: "Hard Rock" },
   { title: "Monster", duration: 177, genre: "Alternative Metal" },
   { title: "Awake and Alive", duration: 212, genre: "Symphonic Metal" },
-  { title: "Whispers in the Dark", duration: 204, genre: "Alternative Metal" },
+  { title: "One Day Too Late", duration: 220, genre: "Alternative Rock / Christian Rock" },
 ]);
 
 playlist.displayPlaylist();

@@ -1,4 +1,7 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace AudioApp;
 
@@ -14,7 +17,7 @@ public class SkilletAlbum
         new("Hero", 187, "Hard Rock"),
         new("Monster", 177, "Alternative Metal"),
         new("Awake and Alive", 212, "Symphonic Metal"),
-        new("Whispers in the Dark", 204, "Alternative Metal"),
+        new("One Day Too Late", 220, "Alternative Rock / Christian Rock"),
     };
 
     public IEnumerable<Track> GetTracks(string? genreFilter = null) =>

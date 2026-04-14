@@ -28,7 +28,7 @@ class SkilletAlbum {
             new Track("Hero", 187, "Hard Rock"),
             new Track("Monster", 177, "Alternative Metal"),
             new Track("Awake and Alive", 212, "Symphonic Metal"),
-            new Track("Whispers in the Dark", 204, "Alternative Metal")
+            new Track("One Day Too Late", 220, "Alternative Rock / Christian Rock")
         );
         new SkilletAlbum("Awake", tracks).displayPlaylist();
     }
