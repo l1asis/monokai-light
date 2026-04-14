@@ -1,0 +1,29 @@
+# Skillet Audio Server Configuration
+version: '3.8'
+
+x-environment: &base_env
+  BAND_NAME: "Skillet"
+  GENRE: "Hard Rock"
+  MAX_VOLUME: 11
+  ENABLE_EQ: true
+
+services:
+  audio_streamer:
+    image: panhead/streamer:latest
+    ports:
+      - "8080:80"
+    environment:
+      <<: *base_env
+      STREAM_QUALITY: "lossless"
+    volumes:
+      - ./music/awake:/app/data:ro
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 512M
+
+albums_to_cache:
+  - "Collide"
+  - "Comatose"
+  - "Awake"

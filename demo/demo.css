@@ -1,0 +1,68 @@
+:root {
+    --bg: #fcfaf6;
+    --panel: rgba(255, 255, 255, .92);
+    --text: #1f2328;
+    --muted: #66707a;
+    --accent: #c95d22;
+    --line: rgba(31, 35, 40, .1);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    min-height: 100vh;
+    padding: 2rem;
+    font: 16px/1.5 Bahnschrift, "Segoe UI", sans-serif;
+    color: var(--text);
+    background: linear-gradient(180deg, #fffefb 0%, var(--bg) 100%);
+}
+
+.hero,
+.panel {
+    max-width: 760px;
+    margin: 0 auto 1rem;
+    padding: 1.25rem 1.4rem;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    background: var(--panel);
+    box-shadow: 0 12px 35px rgba(31, 35, 40, .08);
+}
+
+h1, h2 { font-family: Georgia, serif; }
+
+.eyebrow,
+.subtitle,
+.panel p,
+.tracks span:last-child { color: var(--muted); }
+
+.badge {
+    display: inline-block;
+    margin-bottom: .75rem;
+    padding: .25rem .65rem;
+    border-radius: 999px;
+    background: #ffe0cb;
+    color: var(--accent);
+    font-size: .8rem;
+    font-weight: 700;
+}
+
+.shell { display: grid; gap: 1rem; }
+
+audio { width: 100%; margin-top: 1rem; accent-color: var(--accent); }
+
+.tracks { list-style: none; margin-top: .5rem; }
+
+.tracks li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: .8rem 0;
+    border-top: 1px solid var(--line);
+}
+
+.tracks li:first-child { border-top: 0; }
+
+@media (max-width: 640px) {
+    body { padding: 1rem; }
+    .tracks li { flex-direction: column; gap: .2rem; }
+}
