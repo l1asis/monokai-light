@@ -3,80 +3,80 @@
 Modified version of the VS Code Monokai theme.
 Somehow, the original Monokai theme is too dark for me, so here we are :smiley:
 
-![Preview](./assets/welcome-preview.png)
+![Preview](https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/welcome-preview.png)
 
 ## 📸 Language Previews (Click to expand)
 
 <details>
   <summary><b>🐍 Python</b></summary>
   <br>
-  <img src="./assets/python-demo.png" alt="Python Syntax" width="100%">
+  <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/python-demo.png" alt="Python Syntax" width="100%">
 </details>
 
 <details>
   <summary><b>🟨 JavaScript</b></summary>
   <br>
-  <img src="./assets/javascript-demo.png" alt="JavaScript Syntax" width="100%">
+  <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/javascript-demo.png" alt="JavaScript Syntax" width="100%">
 </details>
 
 <details>
   <summary><b>🦀 Rust</b></summary>
   <br>
-  <img src="./assets/rust-demo.png" alt="Rust Syntax" width="100%">
+  <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/rust-demo.png" alt="Rust Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>📘 C#</b></summary>
     <br>
-    <img src="./assets/csharp-demo.png" alt="C# Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/csharp-demo.png" alt="C# Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>©️ C</b></summary>
     <br>
-    <img src="./assets/c-demo.png" alt="C Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/c-demo.png" alt="C Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>🐹 Go</b></summary>
     <br>
-    <img src="./assets/go-demo.png" alt="Go Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/go-demo.png" alt="Go Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>🐘 PHP</b></summary>
     <br>
-    <img src="./assets/php-demo.png" alt="PHP Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/php-demo.png" alt="PHP Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>☕ Java</b></summary>
     <br>
-    <img src="./assets/java-demo.png" alt="Java Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/java-demo.png" alt="Java Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>📜 JSON</b></summary>
     <br>
-    <img src="./assets/json-demo.png" alt="JSON Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/json-demo.png" alt="JSON Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>📄 HTML</b></summary>
     <br>
-    <img src="./assets/html-demo.png" alt="HTML Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/html-demo.png" alt="HTML Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>🎨 CSS</b></summary>
     <br>
-    <img src="./assets/css-demo.png" alt="CSS Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/css-demo.png" alt="CSS Syntax" width="100%">
 </details>
 
 <details>
     <summary><b>🛠️ YAML</b></summary>
     <br>
-    <img src="./assets/yaml-demo.png" alt="YAML Syntax" width="100%">
+    <img src="https://github.com/l1asis/monokai-light/raw/refs/heads/main/assets/yaml-demo.png" alt="YAML Syntax" width="100%">
 </details>
 
 ## Use in VS Code (Manual Installation)
